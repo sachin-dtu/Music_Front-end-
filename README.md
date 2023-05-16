@@ -1,6 +1,6 @@
 ## **Music App Front-End Project**
 This project is a front-end implementation of a music app created using HTML, CSS, JavaScript, and Bootstrap. The app allows users to browse and search for music, create playlists, and listen to songs.
-
+![Frontend_music_app](https://github.com/sachin-dtu/Music_Front-end-/blob/main/Frontend_music.jpg)
 ### **Table of Contents**
 * Installation
 * Usage
